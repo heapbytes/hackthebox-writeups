@@ -1,1 +1,9 @@
 *.ovpn
+
+#ignore the active or incomplete challenges/machines
+machines/*-a/
+
+challenges/*-a/
+challenges/*/*-a/
+challenges/*/*/*-a/
+
