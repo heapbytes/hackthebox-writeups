@@ -1,0 +1,286 @@
+[1m[38;2;0;255;0m.[38;2;0;255;6m-[38;2;0;255;13m-[38;2;0;255;19m-[38;2;0;255;25m-[38;2;0;255;32m.[38;2;0;255;38m [38;2;0;255;45m.[38;2;0;255;51m-[38;2;0;255;57m.[38;2;0;255;64m [38;2;0;255;70m.[38;2;0;255;76m-[38;2;0;255;83m.[38;2;0;255;89m [38;2;0;255;96m.[38;2;0;255;102m-[38;2;0;255;108m-[38;2;0;255;115m-[38;2;0;255;121m-[38;2;0;255;127m.[38;2;0;255;134m.[38;2;0;255;140m-[38;2;0;255;147m-[38;2;0;255;153m-[38;2;0;255;159m.[38;2;0;255;166m [38;2;0;255;172m [38;2;0;255;178m.[38;2;0;255;185m-[38;2;0;255;191m-[38;2;0;255;198m-[38;2;0;255;204m-[38;2;0;255;210m.[38;2;0;255;217m [38;2;0;255;223m.[38;2;0;255;229m-[38;2;0;255;236m-[38;2;0;255;242m-[38;2;0;255;249m.[38;2;0;255;255m [38;2;0;249;255m [38;2;0;242;255m [38;2;0;236;255m.[38;2;0;230;255m-[38;2;0;223;255m-[38;2;0;217;255m.[38;2;0;210;255m [38;2;0;204;255m [38;2;0;198;255m.[38;2;0;191;255m-[38;2;0;185;255m.[38;2;0;179;255m [38;2;0;172;255m.[38;2;0;166;255m-[38;2;0;159;255m.[0m
+[38;2;0;255;0m|[38;2;0;255;6m [38;2;0;255;13m{[38;2;0;255;19m}[38;2;0;255;25m [38;2;0;255;32m [38;2;0;255;38m}[38;2;0;255;45m|[38;2;0;255;51m [38;2;0;255;57m{[38;2;0;255;64m [38;2;0;255;70m}[38;2;0;255;76m [38;2;0;255;83m|[38;2;0;255;89m{[38;2;0;255;96m [38;2;0;255;102m{[38;2;0;255;108m_[38;2;0;255;115m_[38;2;0;255;121m [38;2;0;255;127m{[38;2;0;255;134m_[38;2;0;255;140m [38;2;0;255;147m [38;2;0;255;153m [38;2;0;255;159m_[38;2;0;255;166m}[38;2;0;255;172m{[38;2;0;255;178m [38;2;0;255;185m{[38;2;0;255;191m_[38;2;0;255;198m_[38;2;0;255;204m [38;2;0;255;210m [38;2;0;255;217m/[38;2;0;255;223m [38;2;0;255;229m [38;2;0;255;236m_[38;2;0;255;242m_[38;2;0;255;249m_[38;2;0;255;255m}[38;2;0;249;255m [38;2;0;242;255m/[38;2;0;236;255m [38;2;0;230;255m{[38;2;0;223;255m}[38;2;0;217;255m [38;2;0;210;255m\[38;2;0;204;255m [38;2;0;198;255m|[38;2;0;191;255m [38;2;0;185;255m [38;2;0;179;255m`[38;2;0;172;255m|[38;2;0;166;255m [38;2;0;159;255m|[0m
+[38;2;0;255;0m|[38;2;0;255;6m [38;2;0;255;13m.[38;2;0;255;19m-[38;2;0;255;25m.[38;2;0;255;32m [38;2;0;255;38m\[38;2;0;255;45m|[38;2;0;255;51m [38;2;0;255;57m{[38;2;0;255;64m_[38;2;0;255;70m}[38;2;0;255;76m [38;2;0;255;83m|[38;2;0;255;89m.[38;2;0;255;96m-[38;2;0;255;102m.[38;2;0;255;108m_[38;2;0;255;115m}[38;2;0;255;121m [38;2;0;255;127m}[38;2;0;255;134m [38;2;0;255;140m|[38;2;0;255;147m [38;2;0;255;153m|[38;2;0;255;159m [38;2;0;255;166m [38;2;0;255;172m.[38;2;0;255;178m-[38;2;0;255;185m.[38;2;0;255;191m_[38;2;0;255;198m}[38;2;0;255;204m [38;2;0;255;210m}[38;2;0;255;217m\[38;2;0;255;223m [38;2;0;255;229m [38;2;0;255;236m [38;2;0;255;242m [38;2;0;255;249m [38;2;0;255;255m}[38;2;0;249;255m/[38;2;0;242;255m [38;2;0;236;255m [38;2;0;230;255m/[38;2;0;223;255m\[38;2;0;217;255m [38;2;0;210;255m [38;2;0;204;255m\[38;2;0;198;255m|[38;2;0;191;255m [38;2;0;185;255m|[38;2;0;179;255m\[38;2;0;172;255m [38;2;0;166;255m [38;2;0;159;255m|[0m
+[38;2;0;255;0m`[38;2;0;255;6m-[38;2;0;255;13m'[38;2;0;255;19m [38;2;0;255;25m`[38;2;0;255;32m-[38;2;0;255;38m'[38;2;0;255;45m`[38;2;0;255;51m-[38;2;0;255;57m-[38;2;0;255;64m-[38;2;0;255;70m-[38;2;0;255;76m-[38;2;0;255;83m'[38;2;0;255;89m`[38;2;0;255;96m-[38;2;0;255;102m-[38;2;0;255;108m-[38;2;0;255;115m-[38;2;0;255;121m'[38;2;0;255;127m [38;2;0;255;134m [38;2;0;255;140m`[38;2;0;255;147m-[38;2;0;255;153m'[38;2;0;255;159m [38;2;0;255;166m [38;2;0;255;172m`[38;2;0;255;178m-[38;2;0;255;185m-[38;2;0;255;191m-[38;2;0;255;198m-[38;2;0;255;204m'[38;2;0;255;210m [38;2;0;255;217m [38;2;0;255;223m`[38;2;0;255;229m-[38;2;0;255;236m-[38;2;0;255;242m-[38;2;0;255;249m'[38;2;0;255;255m [38;2;0;249;255m`[38;2;0;242;255m-[38;2;0;236;255m'[38;2;0;230;255m [38;2;0;223;255m [38;2;0;217;255m`[38;2;0;210;255m-[38;2;0;204;255m'[38;2;0;198;255m`[38;2;0;191;255m-[38;2;0;185;255m'[38;2;0;179;255m [38;2;0;172;255m`[38;2;0;166;255m-[38;2;0;159;255m'[0m
+[38;2;0;255;0mT[38;2;0;255;6mh[38;2;0;255;13me[38;2;0;255;19m [38;2;0;255;25mM[38;2;0;255;32mo[38;2;0;255;38md[38;2;0;255;45me[38;2;0;255;51mr[38;2;0;255;57mn[38;2;0;255;64m [38;2;0;255;70mD[38;2;0;255;76ma[38;2;0;255;83my[38;2;0;255;89m [38;2;0;255;96mP[38;2;0;255;102mo[38;2;0;255;108mr[38;2;0;255;115mt[38;2;0;255;121m [38;2;0;255;127mS[38;2;0;255;134mc[38;2;0;255;140ma[38;2;0;255;147mn[38;2;0;255;153mn[38;2;0;255;159me[38;2;0;255;166mr[38;2;0;255;172m.[0m[0m
+[1m[38;2;255;255;0m_[38;2;249;255;0m_[38;2;242;255;0m_[38;2;236;255;0m_[38;2;230;255;0m_[38;2;223;255;0m_[38;2;217;255;0m_[38;2;210;255;0m_[38;2;204;255;0m_[38;2;198;255;0m_[38;2;191;255;0m_[38;2;185;255;0m_[38;2;179;255;0m_[38;2;172;255;0m_[38;2;166;255;0m_[38;2;159;255;0m_[38;2;153;255;0m_[38;2;147;255;0m_[38;2;140;255;0m_[38;2;134;255;0m_[38;2;128;255;0m_[38;2;121;255;0m_[38;2;115;255;0m_[38;2;108;255;0m_[38;2;102;255;0m_[38;2;96;255;0m_[38;2;89;255;0m_[38;2;83;255;0m_[38;2;77;255;0m_[38;2;70;255;0m_[38;2;64;255;0m_[38;2;57;255;0m_[38;2;51;255;0m_[38;2;45;255;0m_[38;2;38;255;0m_[38;2;32;255;0m_[38;2;26;255;0m_[38;2;19;255;0m_[38;2;13;255;0m_[38;2;6;255;0m_[0m
+[38;2;255;255;0m:[38;2;249;255;0m [38;2;242;255;0mh[38;2;236;255;0mt[38;2;230;255;0mt[38;2;223;255;0mp[38;2;217;255;0m:[38;2;210;255;0m/[38;2;204;255;0m/[38;2;198;255;0md[38;2;191;255;0mi[38;2;185;255;0ms[38;2;179;255;0mc[38;2;172;255;0mo[38;2;166;255;0mr[38;2;159;255;0md[38;2;153;255;0m.[38;2;147;255;0ms[38;2;140;255;0mk[38;2;134;255;0me[38;2;128;255;0mr[38;2;121;255;0mr[38;2;115;255;0mi[38;2;108;255;0mt[38;2;102;255;0mt[38;2;96;255;0m.[38;2;89;255;0mb[38;2;83;255;0ml[38;2;77;255;0mo[38;2;70;255;0mg[38;2;64;255;0m [38;2;57;255;0m [38;2;51;255;0m [38;2;45;255;0m [38;2;38;255;0m [38;2;32;255;0m [38;2;26;255;0m [38;2;19;255;0m [38;2;13;255;0m [38;2;6;255;0m [38;2;0;255;0m [38;2;0;255;6m:[0m
+[38;2;255;255;0m:[38;2;249;255;0m [38;2;242;255;0mh[38;2;236;255;0mt[38;2;230;255;0mt[38;2;223;255;0mp[38;2;217;255;0ms[38;2;210;255;0m:[38;2;204;255;0m/[38;2;198;255;0m/[38;2;191;255;0mg[38;2;185;255;0mi[38;2;179;255;0mt[38;2;172;255;0mh[38;2;166;255;0mu[38;2;159;255;0mb[38;2;153;255;0m.[38;2;147;255;0mc[38;2;140;255;0mo[38;2;134;255;0mm[38;2;128;255;0m/[38;2;121;255;0mR[38;2;115;255;0mu[38;2;108;255;0ms[38;2;102;255;0mt[38;2;96;255;0mS[38;2;89;255;0mc[38;2;83;255;0ma[38;2;77;255;0mn[38;2;70;255;0m/[38;2;64;255;0mR[38;2;57;255;0mu[38;2;51;255;0ms[38;2;45;255;0mt[38;2;38;255;0mS[38;2;32;255;0mc[38;2;26;255;0ma[38;2;19;255;0mn[38;2;13;255;0m [38;2;6;255;0m:[0m
+[38;2;255;255;0m [38;2;249;255;0m-[38;2;242;255;0m-[38;2;236;255;0m-[38;2;230;255;0m-[38;2;223;255;0m-[38;2;217;255;0m-[38;2;210;255;0m-[38;2;204;255;0m-[38;2;198;255;0m-[38;2;191;255;0m-[38;2;185;255;0m-[38;2;179;255;0m-[38;2;172;255;0m-[38;2;166;255;0m-[38;2;159;255;0m-[38;2;153;255;0m-[38;2;147;255;0m-[38;2;140;255;0m-[38;2;134;255;0m-[38;2;128;255;0m-[38;2;121;255;0m-[38;2;115;255;0m-[38;2;108;255;0m-[38;2;102;255;0m-[38;2;96;255;0m-[38;2;89;255;0m-[38;2;83;255;0m-[38;2;77;255;0m-[38;2;70;255;0m-[38;2;64;255;0m-[38;2;57;255;0m-[38;2;51;255;0m-[38;2;45;255;0m-[38;2;38;255;0m-[38;2;32;255;0m-[38;2;26;255;0m-[38;2;19;255;0m-[38;2;13;255;0m-[0m[0m
+Please contribute more quotes to our GitHub https://github.com/rustscan/rustscan
+
+[1;34m[~][0m The config file is expected to be at "/home/kamui/.rustscan.toml"
+[1;31m[!][0m File limit is lower than default batch size. Consider upping with --ulimit. May cause harm to sensitive servers
+[1;31m[!][0m Your file limit is very small, which negatively impacts RustScan's speed. Use the Docker image, or up the Ulimit with '--ulimit 5000'. 
+Open 10.10.10.239:80
+Open 10.10.10.239:135
+Open 10.10.10.239:139
+Open 10.10.10.239:443
+Open 10.10.10.239:445
+Open 10.10.10.239:3306
+Open 10.10.10.239:5000
+Open 10.10.10.239:5040
+Open 10.10.10.239:5985
+Open 10.10.10.239:5986
+Open 10.10.10.239:7680
+Open 10.10.10.239:47001
+Open 10.10.10.239:49664
+Open 10.10.10.239:49665
+Open 10.10.10.239:49667
+Open 10.10.10.239:49666
+Open 10.10.10.239:49668
+Open 10.10.10.239:49669
+Open 10.10.10.239:49670
+[1;34m[~][0m Starting Script(s)
+[1;38;2;0;255;9m[>][0m Running script "nmap -vvv -p {{port}} {{ip}} -sC -sV" on ip 10.10.10.239
+Depending on the complexity of the script, results may take some time to appear.
+[1;34m[~][0m Starting Nmap 7.94 ( https://nmap.org ) at 2023-06-27 14:44 IST
+NSE: Loaded 156 scripts for scanning.
+NSE: Script Pre-scanning.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 14:44
+Completed NSE at 14:44, 0.00s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 14:44
+Completed NSE at 14:44, 0.00s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 14:44
+Completed NSE at 14:44, 0.00s elapsed
+Initiating Ping Scan at 14:44
+Scanning 10.10.10.239 [2 ports]
+Completed Ping Scan at 14:44, 0.26s elapsed (1 total hosts)
+Initiating Connect Scan at 14:44
+Scanning love.htb (10.10.10.239) [19 ports]
+Discovered open port 445/tcp on 10.10.10.239
+Discovered open port 135/tcp on 10.10.10.239
+Discovered open port 443/tcp on 10.10.10.239
+Discovered open port 80/tcp on 10.10.10.239
+Discovered open port 139/tcp on 10.10.10.239
+Discovered open port 3306/tcp on 10.10.10.239
+Discovered open port 5000/tcp on 10.10.10.239
+Discovered open port 47001/tcp on 10.10.10.239
+Discovered open port 49665/tcp on 10.10.10.239
+Discovered open port 5985/tcp on 10.10.10.239
+Discovered open port 49666/tcp on 10.10.10.239
+Discovered open port 49667/tcp on 10.10.10.239
+Discovered open port 49664/tcp on 10.10.10.239
+Discovered open port 49668/tcp on 10.10.10.239
+Discovered open port 49669/tcp on 10.10.10.239
+Discovered open port 5986/tcp on 10.10.10.239
+Discovered open port 5040/tcp on 10.10.10.239
+Discovered open port 7680/tcp on 10.10.10.239
+Discovered open port 49670/tcp on 10.10.10.239
+Completed Connect Scan at 14:44, 0.92s elapsed (19 total ports)
+Initiating Service scan at 14:44
+Scanning 19 services on love.htb (10.10.10.239)
+Service scan Timing: About 57.89% done; ETC: 14:46 (0:00:46 remaining)
+Completed Service scan at 14:47, 165.71s elapsed (19 services on 1 host)
+NSE: Script scanning 10.10.10.239.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 14:47
+Completed NSE at 14:47, 19.38s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 14:47
+Completed NSE at 14:47, 2.34s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 14:47
+Completed NSE at 14:47, 0.00s elapsed
+Nmap scan report for love.htb (10.10.10.239)
+Host is up, received syn-ack (0.39s latency).
+Scanned at 2023-06-27 14:44:19 IST for 189s
+
+PORT      STATE SERVICE     REASON  VERSION
+80/tcp    open  http        syn-ack Apache httpd 2.4.46 ((Win64) OpenSSL/1.1.1j PHP/7.3.27)
+|_http-server-header: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+|_http-title: Voting System using PHP
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+135/tcp   open  msrpc       syn-ack Microsoft Windows RPC
+139/tcp   open  netbios-ssn syn-ack Microsoft Windows netbios-ssn
+443/tcp   open  ssl/http    syn-ack Apache httpd 2.4.46 (OpenSSL/1.1.1j PHP/7.3.27)
+| ssl-cert: Subject: commonName=staging.love.htb/organizationName=ValentineCorp/stateOrProvinceName=m/countryName=in/emailAddress=roy@love.htb/organizationalUnitName=love.htb/localityName=norway
+| Issuer: commonName=staging.love.htb/organizationName=ValentineCorp/stateOrProvinceName=m/countryName=in/emailAddress=roy@love.htb/organizationalUnitName=love.htb/localityName=norway
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2021-01-18T14:00:16
+| Not valid after:  2022-01-18T14:00:16
+| MD5:   bff0:1add:5048:afc8:b3cf:7140:6e68:5ff6
+| SHA-1: 83ed:29c4:70f6:4036:a6f4:2d4d:4cf6:18a2:e9e4:96c2
+| -----BEGIN CERTIFICATE-----
+| MIIDozCCAosCFFhDHcnclWJmeuqOK/LQv3XDNEu4MA0GCSqGSIb3DQEBCwUAMIGN
+| MQswCQYDVQQGEwJpbjEKMAgGA1UECAwBbTEPMA0GA1UEBwwGbm9yd2F5MRYwFAYD
+| VQQKDA1WYWxlbnRpbmVDb3JwMREwDwYDVQQLDAhsb3ZlLmh0YjEZMBcGA1UEAwwQ
+| c3RhZ2luZy5sb3ZlLmh0YjEbMBkGCSqGSIb3DQEJARYMcm95QGxvdmUuaHRiMB4X
+| DTIxMDExODE0MDAxNloXDTIyMDExODE0MDAxNlowgY0xCzAJBgNVBAYTAmluMQow
+| CAYDVQQIDAFtMQ8wDQYDVQQHDAZub3J3YXkxFjAUBgNVBAoMDVZhbGVudGluZUNv
+| cnAxETAPBgNVBAsMCGxvdmUuaHRiMRkwFwYDVQQDDBBzdGFnaW5nLmxvdmUuaHRi
+| MRswGQYJKoZIhvcNAQkBFgxyb3lAbG92ZS5odGIwggEiMA0GCSqGSIb3DQEBAQUA
+| A4IBDwAwggEKAoIBAQDQlH1J/AwbEm2Hnh4Bizch08sUHlHg7vAMGEB14LPq9G20
+| PL/6QmYxJOWBPjBWWywNYK3cPIFY8yUmYlLBiVI0piRfaSj7wTLW3GFSPhrpmfz0
+| 0zJMKeyBOD0+1K9BxiUQNVyEnihsULZKLmZcF6LhOIhiONEL6mKKr2/mHLgfoR7U
+| vM7OmmywdLRgLfXN2Cgpkv7ciEARU0phRq2p1s4W9Hn3XEU8iVqgfFXs/ZNyX3r8
+| LtDiQUavwn2s+Hta0mslI0waTmyOsNrE4wgcdcF9kLK/9ttM1ugTJSQAQWbYo5LD
+| 2bVw7JidPhX8mELviftIv5W1LguCb3uVb6ipfShxAgMBAAEwDQYJKoZIhvcNAQEL
+| BQADggEBANB5x2U0QuQdc9niiW8XtGVqlUZOpmToxstBm4r0Djdqv/Z73I/qys0A
+| y7crcy9dRO7M80Dnvj0ReGxoWN/95ZA4GSL8TUfIfXbonrCKFiXOOuS8jCzC9LWE
+| nP4jUUlAOJv6uYDajoD3NfbhW8uBvopO+8nywbQdiffatKO35McSl7ukvIK+d7gz
+| oool/rMp/fQ40A1nxVHeLPOexyB3YJIMAhm4NexfJ2TKxs10C+lJcuOxt7MhOk0h
+| zSPL/pMbMouLTXnIsh4SdJEzEkNnuO69yQoN8XgjM7vHvZQIlzs1R5pk4WIgKHSZ
+| 0drwvFE50xML9h2wrGh7L9/CSbhIhO8=
+|_-----END CERTIFICATE-----
+|_http-server-header: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27
+|_http-title: 403 Forbidden
+| tls-alpn: 
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+445/tcp   open  ame=Vale    syn-ack Windows 10 Pro 19042 microsoft-ds (workgroup: WORKGROUP)
+3306/tcp  open  mysql?      syn-ack
+| fingerprint-strings: 
+|   DNSVersionBindReqTCP, FourOhFourRequest, GenericLines, GetRequest, Kerberos, LANDesk-RC, LDAPSearchReq, NCP, NULL, RPCCheck, RTSPRequest, TLSSessionReq, TerminalServerCookie, WMSRequest, X11Probe: 
+|_    Host '10.10.16.4' is not allowed to connect to this MariaDB server
+| mysql-info: 
+|_  MySQL Error: Host '10.10.16.4' is not allowed to connect to this MariaDB server
+5000/tcp  open  http        syn-ack Apache httpd 2.4.46 (OpenSSL/1.1.1j PHP/7.3.27)
+|_http-server-header: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27
+|_http-title: 403 Forbidden
+5040/tcp  open  unknown     syn-ack
+5985/tcp  open  http        syn-ack Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Not Found
+5986/tcp  open  ssl/http    syn-ack Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Not Found
+|_ssl-date: 2023-06-27T09:38:59+00:00; +21m33s from scanner time.
+| ssl-cert: Subject: commonName=LOVE
+| Subject Alternative Name: DNS:LOVE, DNS:Love
+| Issuer: commonName=LOVE
+| Public Key type: rsa
+| Public Key bits: 4096
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2021-04-11T14:39:19
+| Not valid after:  2024-04-10T14:39:19
+| MD5:   d35a:2ba6:8ef4:7568:f99d:d6f4:aaa2:03b5
+| SHA-1: 84ef:d922:a70a:6d9d:82b8:5bb3:d04f:066b:12f8:6e73
+| -----BEGIN CERTIFICATE-----
+| MIIFBTCCAu2gAwIBAgIQQD+VWjjYeaVAiweoWrOJXjANBgkqhkiG9w0BAQsFADAP
+| MQ0wCwYDVQQDDARMT1ZFMB4XDTIxMDQxMTE0MzkxOVoXDTI0MDQxMDE0MzkxOVow
+| DzENMAsGA1UEAwwETE9WRTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIB
+| APC54+VMM+g9yynvO9x5UWpskpl8oxYcplv/zck10LeamyoRMCoOb6+lPhokbydf
+| 1cj/td1WjOoCkE22w8KBXt+GkBtYp1AuaiQuUWZbSU1TfKLgGTB+jqcn6L8oFdpm
+| MMl1rdgW/dDLF4WRSgPd1bwSl1JrgM2ETbQNbuE+pPkUAOwQp9W2/YcSCPAc+a03
+| bntUxAyVe/U4xm9GJYTliUGZCc4KY74ZhiIoE9N+qW9wH+THyTcKYFo6acCYK3OT
+| NFxj2NVB34YSOaGwoJDfHOdt6q8hQSBk2MLcIlFMYpzyk6guxO6CYucufqPUhux8
+| j8foDhPOQr4eg8L2WZq0mF2k0Owt+FPaFCQpq8Cuk3wxkrkHAlwzmxMjZUhO59Z7
+| p7cSQt5JtDrSIghP9nePFkz1ARaUE4ifUfWb7ZhX5ZI2sWD7y5ilgK/+EJRUs8Qr
+| aiNJQhr2W+Lu8Q8C821LrhQ8srRbV3APlj0jysYzTcerksSmA4L2NYEjdYuIkHNh
+| VH7IUwAfyQCKhT9Z4l9TMmu0w84jvFV/e4PYrXe7W3jNquKI8+FvgAtj7crDkX6x
+| ouN13d3Z12FsPFZB8S9cFhEnMUT0VcPqx4on6oD1+iD3dkPYi907kHjvHQqc43yZ
+| vRSJBNy12LsX9bDyeew1jWBLqhdh0fApp+5LSKyEanENAgMBAAGjXTBbMA4GA1Ud
+| DwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAVBgNVHREEDjAMggRMT1ZF
+| ggRMb3ZlMB0GA1UdDgQWBBQNJyWWYTVg7yDEB8RiCpGkBlLzcjANBgkqhkiG9w0B
+| AQsFAAOCAgEAOtD1tPlQAsAozmZxFGc7PiMkJpZbpS31Hb32/aFwTxeN/7VEmTPM
+| +FyIo+ZxgL+GD6SGWtpunCGs2Hms3lbSxnPNPbdcaG6whP12Ih/xGuQEbXVq6uY3
+| fmCL/zIHthIjDPbgvtrC0xB/1kioMrDdGK1jp1F9q1cd+9P3cTPXgpekTzcFixGF
+| BkQTM0ty8FjZnwTYwtAJ7RcxbzhIGi4YlJGIBOi98XvParnR2co2XhR+gBBPhppC
+| 0zKscOXtQrOyWymrq1XSEdFhExznQREXkGsUX9Ogw8yTdREt9jdlijjtQGISBlwG
+| 807Ru8m6HeO35dhUp3fS1ZOQ94Zlmls8Uw4F0slQ5v44rhhbOziy3fcb63zSvFJ1
+| jzk5yEoxER7tMiWrxCniGSI7kIs0ACGEWHbsbjfQuGVvTe2S/yBmUbCSuZPS9r1X
+| w3EPapovLDMmx8PBLMXDa75bBE+si/3xS4w8OIepTrk+oajAWPjHSFrt6QRRI9Mv
+| L1UEoxV1K7amnTybXb66kpvucZz0pQYVuRypOYLlFuFMC2vj8M/64Hfb5OhFG+6p
+| RtFRdYl9s/H+R+Y+fB4o9Tf5vMpYwOCrBfTEGvm4JLBRGXn6f0ODcGqwVYVWyPEo
+| 4pv8jZSiNJsmm6gsQXR4fLIPGuNjwmxJmm51Itv0Lb+FQogRk/9I0AI=
+|_-----END CERTIFICATE-----
+| tls-alpn: 
+|_  http/1.1
+7680/tcp  open  pando-pub?  syn-ack
+47001/tcp open  http        syn-ack Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Not Found
+49664/tcp open  msrpc       syn-ack Microsoft Windows RPC
+49665/tcp open  msrpc       syn-ack Microsoft Windows RPC
+49666/tcp open  msrpc       syn-ack Microsoft Windows RPC
+49667/tcp open  msrpc       syn-ack Microsoft Windows RPC
+49668/tcp open  msrpc       syn-ack Microsoft Windows RPC
+49669/tcp open  msrpc       syn-ack Microsoft Windows RPC
+49670/tcp open  msrpc       syn-ack Microsoft Windows RPC
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port3306-TCP:V=7.94%I=7%D=6/27%Time=649AA86D%P=x86_64-pc-linux-gnu%r(NU
+SF:LL,49,"E\0\0\x01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowe
+SF:d\x20to\x20connect\x20to\x20this\x20MariaDB\x20server")%r(GenericLines,
+SF:49,"E\0\0\x01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x
+SF:20to\x20connect\x20to\x20this\x20MariaDB\x20server")%r(GetRequest,49,"E
+SF:\0\0\x01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\
+SF:x20connect\x20to\x20this\x20MariaDB\x20server")%r(RTSPRequest,49,"E\0\0
+SF:\x01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20c
+SF:onnect\x20to\x20this\x20MariaDB\x20server")%r(RPCCheck,49,"E\0\0\x01\xf
+SF:fj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20connect\
+SF:x20to\x20this\x20MariaDB\x20server")%r(DNSVersionBindReqTCP,49,"E\0\0\x
+SF:01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20con
+SF:nect\x20to\x20this\x20MariaDB\x20server")%r(TerminalServerCookie,49,"E\
+SF:0\0\x01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x
+SF:20connect\x20to\x20this\x20MariaDB\x20server")%r(TLSSessionReq,49,"E\0\
+SF:0\x01\xffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20
+SF:connect\x20to\x20this\x20MariaDB\x20server")%r(Kerberos,49,"E\0\0\x01\x
+SF:ffj\x04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20connect
+SF:\x20to\x20this\x20MariaDB\x20server")%r(X11Probe,49,"E\0\0\x01\xffj\x04
+SF:Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20connect\x20to\
+SF:x20this\x20MariaDB\x20server")%r(FourOhFourRequest,49,"E\0\0\x01\xffj\x
+SF:04Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20connect\x20t
+SF:o\x20this\x20MariaDB\x20server")%r(LDAPSearchReq,49,"E\0\0\x01\xffj\x04
+SF:Host\x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20connect\x20to\
+SF:x20this\x20MariaDB\x20server")%r(LANDesk-RC,49,"E\0\0\x01\xffj\x04Host\
+SF:x20'10\.10\.16\.4'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20th
+SF:is\x20MariaDB\x20server")%r(NCP,49,"E\0\0\x01\xffj\x04Host\x20'10\.10\.
+SF:16\.4'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20this\x20MariaD
+SF:B\x20server")%r(WMSRequest,49,"E\0\0\x01\xffj\x04Host\x20'10\.10\.16\.4
+SF:'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20this\x20MariaDB\x20
+SF:server");
+Service Info: Hosts: www.example.com, LOVE, www.love.htb; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| p2p-conficker: 
+|   Checking for Conficker.C or higher...
+|   Check 1 (port 46453/tcp): CLEAN (Couldn't connect)
+|   Check 2 (port 3599/tcp): CLEAN (Couldn't connect)
+|   Check 3 (port 21885/udp): CLEAN (Failed to receive data)
+|   Check 4 (port 13657/udp): CLEAN (Timeout)
+|_  0/4 checks are positive: Host is CLEAN or ports are blocked
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+|_clock-skew: mean: 2h06m34s, deviation: 3h30m03s, median: 21m32s
+| smb-os-discovery: 
+|   OS: Windows 10 Pro 19042 (Windows 10 Pro 6.3)
+|   OS CPE: cpe:/o:microsoft:windows_10::-
+|   Computer name: Love
+|   NetBIOS computer name: LOVE\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2023-06-27T02:38:46-07:00
+| smb2-time: 
+|   date: 2023-06-27T09:38:42
+|_  start_date: N/A
+| smb-security-mode: 
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+
+NSE: Script Post-scanning.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 14:47
+Completed NSE at 14:47, 0.00s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 14:47
+Completed NSE at 14:47, 0.00s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 14:47
+Completed NSE at 14:47, 0.00s elapsed
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 188.83 seconds
+

@@ -1,0 +1,49 @@
+┌─[ ~/stuff/hackthebox-writeups/machines/Windows/love-a] [ 10.10.16.4] git:(main*)
+└─➜ gobuster dir -u http://10.10.10.239/ -w /usr/share/wordlist/Discovery/Web-Content/common.txt                                                                      [0]
+===============================================================
+Gobuster v3.5
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.10.239/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlist/Discovery/Web-Content/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.5
+[+] Timeout:                 10s
+===============================================================
+2023/06/27 14:45:52 Starting gobuster in directory enumeration mode
+===============================================================
+/.hta                 (Status: 403) [Size: 302]
+/.htaccess            (Status: 403) [Size: 302]
+/.htpasswd            (Status: 403) [Size: 302]
+/ADMIN                (Status: 301) [Size: 337] [--> http://10.10.10.239/ADMIN/]
+/Admin                (Status: 301) [Size: 337] [--> http://10.10.10.239/Admin/]
+/Images               (Status: 301) [Size: 338] [--> http://10.10.10.239/Images/]
+/admin                (Status: 301) [Size: 337] [--> http://10.10.10.239/admin/]
+/aux                  (Status: 403) [Size: 302]
+/cgi-bin/             (Status: 403) [Size: 302]
+/com3                 (Status: 403) [Size: 302]
+/com1                 (Status: 403) [Size: 302]
+/com4                 (Status: 403) [Size: 302]
+/com2                 (Status: 403) [Size: 302]
+/con                  (Status: 403) [Size: 302]
+/dist                 (Status: 301) [Size: 336] [--> http://10.10.10.239/dist/]
+/examples             (Status: 503) [Size: 402]
+/images               (Status: 301) [Size: 338] [--> http://10.10.10.239/images/]
+/includes             (Status: 301) [Size: 340] [--> http://10.10.10.239/includes/]
+/index.php            (Status: 200) [Size: 4388]
+/licenses             (Status: 403) [Size: 421]
+/lpt1                 (Status: 403) [Size: 302]
+/lpt2                 (Status: 403) [Size: 302]
+/nul                  (Status: 403) [Size: 302]
+/phpmyadmin           (Status: 403) [Size: 302]
+/plugins              (Status: 301) [Size: 339] [--> http://10.10.10.239/plugins/]
+/prn                  (Status: 403) [Size: 302]
+/server-info          (Status: 403) [Size: 421]
+/server-status        (Status: 403) [Size: 421]
+/webalizer            (Status: 403) [Size: 302]
+Progress: 4710 / 4716 (99.87%)
+===============================================================
+2023/06/27 14:48:20 Finished
+===============================================================
